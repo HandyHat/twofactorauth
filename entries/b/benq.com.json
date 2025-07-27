@@ -1,0 +1,12 @@
+{
+  "BenQ Connect": {
+    "domain": "benq.com",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://www.benq.com/en-us/education/user-manual/software/iam-identity-management/account-settings.html#two-factor-authentication",
+    "categories": [
+      "identity"
+    ]
+  }
+}
